@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "build": "next build",
+    "test": "your-test-command"
+  }
+}
